@@ -1,13 +1,17 @@
 {
-  "name": "vue-particles",
+  "name": "vue-particles-fixie",
   "version": "1.0.9",
   "description": "Vue.js component for particles backgrounds",
-  "author": "creotip@gmail.com",
+  "author": "2582253358@qq.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creotip/vue-particles/issues"
+    "url": "https://github.com/rainAgain/vue-particle-fixie/issues"
   },
-  "homepage": "http://vue-particles.netlify.com/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rainAgain/vue-particle-fixie.git"
+  },
+  "homepage": "https://github.com/rainAgain/vue-particle-fixie",
   "keywords": [
     "vue",
     "vuejs",
@@ -15,7 +19,8 @@
     "vue-component",
     "particles.js",
     "particles",
-    "vue-particles"
+    "vue-particles",
+    "vue-particles-fixie"
   ],
   "scripts": {
     "dev": "node build/dev-server.js",
